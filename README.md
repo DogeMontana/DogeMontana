@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @DogeMontana
 - 👀 I’m interested in fintech mostly.
 - 🌱 I’m currently learning on codecademy.
+- 💻 Knowledge of HTML/CSS/JS | React.js | Node.js | Express.js | SQL | Mocha.js | Git | GitHub  
 - 💞️ I’m looking to collaborate on anything and everything.
 - 📫 How to reach me DogeMontana@gmail.com
 
